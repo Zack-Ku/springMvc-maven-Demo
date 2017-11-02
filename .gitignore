@@ -47,3 +47,13 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+.idea/artifacts/
+.idea/compiler.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+lib/
+springmvc-demo.iml
+src/main/main.iml
+target/
